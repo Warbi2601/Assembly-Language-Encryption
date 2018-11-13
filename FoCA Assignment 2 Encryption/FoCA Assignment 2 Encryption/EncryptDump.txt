@@ -1,0 +1,415 @@
+
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 08/04/2018  Time: 19:36:37
+
+Original string =  josh	Hex = 6a  6f  73  68  
+
+Encrypted string = ÙÑÎÚ	Hex = d9  d1  ce  da  
+
+Decrypted string = josh!	Hex = 6a  6f  73  68  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 08/04/2018  Time: 19:38:22
+
+Original string =  joshjo	Hex = 6a  6f  73  68  6a  6f  
+
+Encrypted string = ÙÑÎÚÙÑ	Hex = d9  d1  ce  da  d9  d1  
+
+Decrypted string = joshjo	Hex = 6a  6f  73  68  6a  6f  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 08/04/2018  Time: 19:38:42
+
+Original string =  	Hex = 
+
+Encrypted string = 	Hex = 
+
+Decrypted string = Soon!	Hex = 
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 08/04/2018  Time: 19:39:13
+
+Original string =  testte	Hex = 74  65  73  74  74  65  
+
+Encrypted string = ÏÛÎÎÏÛ	Hex = cf  db  ce  ce  cf  db  
+
+Decrypted string = testte	Hex = 74  65  73  74  74  65  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 08/04/2018  Time: 19:40:52
+
+Original string =  joshjo	Hex = 6a  6f  73  68  6a  6f  
+
+Encrypted string = ÙÑÎÚÙÑ	Hex = d9  d1  ce  da  d9  d1  
+
+Decrypted string = joshjo	Hex = 6a  6f  73  68  6a  6f  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 08/04/2018  Time: 19:41:03
+
+Original string =  josh	Hex = 6a  6f  73  68  
+
+Encrypted string = ÙÑÎÚ	Hex = d9  d1  ce  da  
+
+Decrypted string = josh!	Hex = 6a  6f  73  68  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 08/04/2018  Time: 19:43:03
+
+Original string =  123456	Hex = 31  32  33  34  35  36  
+
+Encrypted string = 
+	Hex = 12  e  e  e  e  a  
+
+Decrypted string = 123456	Hex = 31  32  33  34  35  36  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 08/04/2018  Time: 19:43:18
+
+Original string =  123456	Hex = 31  32  33  34  35  36  
+
+Encrypted string = 
+	Hex = 12  e  e  e  e  a  
+
+Decrypted string = 123456	Hex = 31  32  33  34  35  36  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 09/04/2018  Time: 03:08:47
+
+Original string =  123456	Hex = 31  32  33  34  35  36  
+
+Encrypted string = 
+	Hex = 12  e  e  e  e  a  
+
+Decrypted string = 123456	Hex = 31  32  33  34  35  36  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 09/04/2018  Time: 03:09:15
+
+Original string =  123456	Hex = 31  32  33  34  35  36  
+
+Encrypted string = 
+	Hex = 12  e  e  e  e  a  
+
+Decrypted string = 123456	Hex = 31  32  33  34  35  36  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 10/04/2018  Time: 11:03:50
+
+Original string =  123456	Hex = 31  32  33  34  35  36  
+
+Encrypted string = 
+	Hex = 12  e  e  e  e  a  
+
+Decrypted string = 123456	Hex = 31  32  33  34  35  36  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 10/04/2018  Time: 15:13:40
+
+Original string =  123456	Hex = 31  32  33  34  35  36  
+
+Encrypted string = 
+	Hex = 12  e  e  e  e  a  
+
+Decrypted string = 123456	Hex = 31  32  33  34  35  36  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 10/04/2018  Time: 15:18:06
+
+Original string =  123456	Hex = 31  32  33  34  35  36  
+
+Encrypted string = 
+	Hex = 12  e  e  e  e  a  
+
+Decrypted string = 123456	Hex = 31  32  33  34  35  36  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 10/04/2018  Time: 15:18:15
+
+Original string =  fgdh	Hex = 66  67  64  68  
+
+Encrypted string = ÝÙÝÚ	Hex = dd  d9  dd  da  
+
+Decrypted string = fgdh!	Hex = 66  67  64  68  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 10/04/2018  Time: 15:18:45
+
+Original string =  dfghjj	Hex = 64  66  67  68  6a  6a  
+
+Encrypted string = ßÚÚÚÙÖ	Hex = df  da  da  da  d9  d6  
+
+Decrypted string = dfghjj	Hex = 64  66  67  68  6a  6a  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 10/04/2018  Time: 15:18:58
+
+Original string =  12	Hex = 31  32  
+
+Encrypted string = 	Hex = 12  e  
+
+Decrypted string = 12on!	Hex = 31  32  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 10/04/2018  Time: 15:19:16
+
+Original string =  qwerty	Hex = 71  77  65  72  74  79  
+
+Encrypted string = ÒÉÜÐÏÇ	Hex = d2  c9  dc  d0  cf  c7  
+
+Decrypted string = qwerty	Hex = 71  77  65  72  74  79  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 23/04/2018  Time: 11:57:42
+
+Original string =  joshua	Hex = 6a  6f  73  68  75  61  
+
+Encrypted string = ÙÑÎÚÎß	Hex = d9  d1  ce  da  ce  df  
+
+Decrypted string = joshua	Hex = 6a  6f  73  68  75  61  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 23/04/2018  Time: 12:06:36
+
+Original string =  josh	Hex = 6a  6f  73  68  
+
+Encrypted string = 	Hex = 0  0  0  0  
+
+Decrypted string = C@AB!	Hex = 43  40  41  42  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 23/04/2018  Time: 14:34:14
+
+Original string =  josh	Hex = 6a  6f  73  68  
+
+Encrypted string = 	Hex = 0  0  0  0  
+
+Decrypted string = C@AB!	Hex = 43  40  41  42  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 23/04/2018  Time: 14:41:40
+
+Original string =  josh	Hex = 6a  6f  73  68  
+
+Encrypted string = 	Hex = 0  0  0  0  
+
+Decrypted string = C@AB!	Hex = 43  40  41  42  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 23/04/2018  Time: 14:42:11
+
+Original string =  josh	Hex = 6a  6f  73  68  
+
+Encrypted string = 	Hex = 0  0  0  0  
+
+Decrypted string = C@AB!	Hex = 43  40  41  42  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 23/04/2018  Time: 17:03:02
+
+Original string =  josh	Hex = 6a  6f  73  68  
+
+Encrypted string = 	Hex = 0  0  0  0  
+
+Decrypted string = C@AB!	Hex = 43  40  41  42  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 23/04/2018  Time: 17:07:21
+
+Original string =  josh	Hex = 6a  6f  73  68  
+
+Encrypted string = 	Hex = 0  0  0  0  
+
+Decrypted string = C@AB!	Hex = 43  40  41  42  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 23/04/2018  Time: 17:10:02
+
+Original string =  josh	Hex = 6a  6f  73  68  
+
+Encrypted string = 	Hex = 0  0  0  0  
+
+Decrypted string = C@AB!	Hex = 43  40  41  42  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 23/04/2018  Time: 17:40:03
+
+Original string =  josh	Hex = 6a  6f  73  68  
+
+Encrypted string = 	Hex = 0  0  0  0  
+
+Decrypted string = C@AB!	Hex = 43  40  41  42  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 23/04/2018  Time: 17:48:49
+
+Original string =  josh	Hex = 6a  6f  73  68  
+
+Encrypted string = ÙÑÎÚ	Hex = d9  d1  ce  da  
+
+Decrypted string = josh!	Hex = 6a  6f  73  68  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 23/04/2018  Time: 17:49:54
+
+Original string =  josh	Hex = 6a  6f  73  68  
+
+Encrypted string = ÙÑÎÚ	Hex = d9  d1  ce  da  
+
+Decrypted string = josh!	Hex = 6a  6f  73  68  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 23/04/2018  Time: 17:50:45
+
+Original string =  jOsH	Hex = 6a  4f  73  48  
+
+Encrypted string = ÙñÎú	Hex = d9  f1  ce  fa  
+
+Decrypted string = jOsH!	Hex = 6a  4f  73  48  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 23/04/2018  Time: 17:54:45
+
+Original string =  joGH	Hex = 6a  6f  47  48  
+
+Encrypted string = ÙÑúú	Hex = d9  d1  fa  fa  
+
+Decrypted string = jogh!	Hex = 6a  6f  67  68  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 23/04/2018  Time: 18:14:58
+
+Original string =  JOSH	Hex = 4a  4f  53  48  
+
+Encrypted string = ùñîú	Hex = f9  f1  ee  fa  
+
+Decrypted string = josh!	Hex = 6a  6f  73  68  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 23/04/2018  Time: 18:15:23
+
+Original string =  josh	Hex = 6a  6f  73  68  
+
+Encrypted string = ÙÑÎÚ	Hex = d9  d1  ce  da  
+
+Decrypted string = josh!	Hex = 6a  6f  73  68  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 23/04/2018  Time: 18:15:41
+
+Original string =  JOSH	Hex = 4a  4f  53  48  
+
+Encrypted string = ùñîú	Hex = f9  f1  ee  fa  
+
+Decrypted string = josh!	Hex = 6a  6f  73  68  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 23/04/2018  Time: 18:16:53
+
+Original string =  JOSH	Hex = 4a  4f  53  48  
+
+Encrypted string = ùñîú	Hex = f9  f1  ee  fa  
+
+Decrypted string = JOSH!	Hex = 4a  4f  53  48  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 23/04/2018  Time: 18:25:04
+
+Original string =  josh	Hex = 6a  6f  73  68  
+
+Encrypted string = ÙÑÎÚ	Hex = d9  d1  ce  da  
+
+Decrypted string = josh!	Hex = 6a  6f  73  68  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 23/04/2018  Time: 18:44:13
+
+Original string =  josh	Hex = 6a  6f  73  68  
+
+Encrypted string = ÙÑÎÚ	Hex = d9  d1  ce  da  
+
+Decrypted string = josh!	Hex = 6a  6f  73  68  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Josh Warburton) Encryption key = 'g'
+Date: 23/04/2018  Time: 18:44:31
+
+Original string =  jOsH	Hex = 6a  4f  73  48  
+
+Encrypted string = ÙñÎú	Hex = d9  f1  ce  fa  
+
+Decrypted string = josh!	Hex = 6a  6f  73  68  
+
+-------------------------------------------------------------
